@@ -10,6 +10,8 @@ function App() {
      <Contador />
 
      <Lista />
+
+     <Formulario />
     </>
   )
 }
